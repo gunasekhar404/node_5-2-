@@ -1,4 +1,4 @@
-# [🔗 GUVI node Day5 task2] Password-Reset application
+# [🔗 GUVI node day5 task2] Password-Reset application
 
 ## 🔗Created task deployed on below link :
 
@@ -23,8 +23,8 @@ Format: URL/createuser </br>
 https://password-reset-87fo.onrender.com/createuser</br>
 body: </br>
 {
-    "name":"Gunasekhar",
-    "email":"Gunasekhar@gmail.com",
+    "name":"Boobathi",
+    "email":"tctakboobathi@gmail.com",
     "password":"123456"
 }
 
@@ -36,7 +36,7 @@ https://password-reset-87fo.onrender.com/forgotpassword </br>
 
 body: </br>
 {
-    "email":"Gunasekhar@gmail.com"    
+    "email":"tctakboobathi@gmail.com"    
 }
 </br>
 Nodemailer used to send password to user mail-id</br>
